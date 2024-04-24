@@ -4,3 +4,4 @@
 *.ptx
 *.cubin
 *.fatbin
+dir_to_ignore/obj
